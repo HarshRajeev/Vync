@@ -76,8 +76,8 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "bhavya-pilani",
-        "repo": "vynv-desktop",
+        "owner": "HarshRajeev",
+        "repo": "Vync",
         "releaseType": "release"
       }
     ]
